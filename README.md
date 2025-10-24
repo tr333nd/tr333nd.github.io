@@ -1,5 +1,4 @@
 <html><body>
-<title>tr333nd</title>
 <head>
     <link rel="stylesheet" href="stylesheet.css">
     <h1>This is Heading #1</h1>
